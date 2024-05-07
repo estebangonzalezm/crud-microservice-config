@@ -1,5 +1,5 @@
 db:
-  url: jdbc:postgresql://localhost:5432/companies-prod
+  url: jdbc:postgresql://localhost:5434/companies-prod
   username: debuggeandoideas-prod
   password: udemy-prod
   connection-timeout: 20000
